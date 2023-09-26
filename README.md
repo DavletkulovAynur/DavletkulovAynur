@@ -12,6 +12,7 @@ Hi, I'm Ainur Davletkulov!
 const _Codit = {
   pronouns: "He" | "Him",
   code: ["Javascript", "TypeScript"],
+  languages: ["English", "Russian", "Spanish", "Bashkir", "Tatar"]
   technologies: {
     web: {
       tools: ["React", "Redux", "RTK Query", "Mobx", "Astro"],
