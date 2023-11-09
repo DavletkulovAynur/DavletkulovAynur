@@ -1,7 +1,7 @@
 ## Hi, I'm Ainur Davletkulov!
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Frontend Engineer at <a href="https://modulbank.ru/">Modulbank
+<p><em>Software Engineer at <a href="https://modulbank.ru/">Modulbank
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <p><--</p>
